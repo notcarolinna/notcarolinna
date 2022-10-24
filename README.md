@@ -11,7 +11,8 @@
 
 <div align="center">
 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcarolinna&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=notcarolinna&show_icons=true&theme=jolly"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcarolinna&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
   
