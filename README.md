@@ -20,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cpp" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vhdl_icon_130091.png" alt="vhdl" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="java" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vhdl_icon_130091.png" alt="vhdl" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 
 ##
 
