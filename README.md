@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notcarolinna.
 - 👀 I'm interested in evolving professionally as a back-end developer.
-- 🌱 I’m currently learning Java, C#, VHDL and Assembly.
+- 🌱 I’m currently learning C#, VHDL and Assembly.
 
 ##
 
