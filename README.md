@@ -20,7 +20,7 @@
   
 ### Main skills and Studying in this moment:
 
-<img align="center" alt="Carol-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">&nbsp;<img align="center" alt="Carol-Cpp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;<img align="center" alt="Carol-CSharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;<img align="center" alt="Carol-VHDL" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vhdl_icon_130091.png">&nbsp;<img align="center" alt="Carol-ASM" height="50" width="60" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png">
+<img align="center" alt="Carol-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> - <img align="center" alt="Carol-Cpp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> - <img align="center" alt="Carol-CSharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> - <img align="center" alt="Carol-VHDL" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vhdl_icon_130091.png"> - <img align="center" alt="Carol-ASM" height="50" width="60" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png">
   
 ##
   ##
