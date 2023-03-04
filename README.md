@@ -6,10 +6,9 @@
 
 ##
 
-<div>
-  <a href="https://github.com/notcarolinna">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=notcarolinna&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcarolinna&layout=compact&langs_count=7&theme=synthwave"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=notcarolinna&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=d6108d&text_color=c9d1d9&bg_color=0d1117" alt="Carolina's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcarolinna&layout=compact&hide_border=true&title_color=ffffff&text_color=d6108d&bg_color=0d1117" />
 </div>
 
 ##
