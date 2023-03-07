@@ -2,7 +2,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi!;+My+name+is+Carolina+and+I'm+22+years+old;I'm+interested+in+back-end+development.;I'm+Graduating+in+Computer+Engineering+at+PUCRS.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi!;+My+name+is+Carolina+and+I'm+22+years+old;I'm+interested+in+back-end+development.;I'm+currently+learning+Assembly,+VHDL+and+Verilog.;I'm+Graduating+in+Computer+Engineering+at+PUCRS.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
