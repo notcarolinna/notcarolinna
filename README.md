@@ -6,7 +6,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=notcarolinna&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=3e3e3e&text_color=c9d1d9&bg_color=000000" alt="Carolina's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcarolinna&layout=compact&hide_border=true&title_color=ffffff&text_color=3e3e3e&bg_color=000000" />
+  <img width="41%" height="193px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcarolinna&layout=compact&hide_border=true&title_color=ffffff&text_color=FFFFFF&bg_color=000000" />
 </div>
 
   
