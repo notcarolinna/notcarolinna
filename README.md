@@ -2,7 +2,7 @@
 
 ##
 
-<p align="center">Hi! <br><br> I am a computer engineering student who has experience in programming ranging from back-end development to hardware description languages like Verilog and VHDL, and even low-level languages like assembly. I have plans to, in the future, acquire knowledge in the fields of databases and front-end.</p>&nbsp;
+<p align="center">Hi! <br><br> I am a computer engineering student who has experience in programming ranging from back-end development to hardware description languages like Verilog and VHDL, and even low-level languages like assembly. I have plans to, in the future, acquire knowledge in the fields of databases and artificial inteligence.</p>&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=notcarolinna&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=3e3e3e&text_color=c9d1d9&bg_color=000000" alt="Carolina's github stats" /> 
