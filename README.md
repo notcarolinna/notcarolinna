@@ -12,7 +12,7 @@
 </div>
 <br>
 <p align="center">
-My name is Carolinna, and I'm a 3rd Computer Engineering student, but I'm equally passionate about software and hardware. I have a strong interest in software and hardware security, as well as cloud computing. I also love exploring new fields and tools (except for Python!!) to continuously enhance my projects. :)
+My name is Carolinna, and I'm a 3rd year Computer Engineering student, but I'm equally passionate about software and hardware. I have a strong interest in software and hardware security, as well as cloud computing. I also love exploring new fields and tools (except for Python!!) to continuously enhance my projects. :)
 </p>
 
 <br>
