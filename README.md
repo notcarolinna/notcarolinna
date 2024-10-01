@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01070f&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=294284&height=120&section=header"/>
 
 <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
@@ -62,4 +62,4 @@ My name is Carolinna, and I'm a 3rd year Computer Engineering student, but I'm e
  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01070f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=294284&height=120&section=footer"/>
