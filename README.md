@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01070f&height=120&section=header"/>
 
 <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
@@ -53,14 +53,13 @@ My name is Carolinna, and I'm a 3rd Computer Engineering student, but I'm equall
 </div>
 <br>
 <div align="center">  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=notcarolinna&theme=modern-lilac2" alt="GitHub Streak" /></a>
-  <img width="41%" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcarolinna&layout=compact&hide_border=true&title_color=c770f0&text_color=c770f0&bg_color=0a0e12" />
-</div>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=notcarolinna&theme=github-dark-blue" alt="GitHub Streak" /></a>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcarolinna&layout=compact&langs_count=7&theme=github_dark"/></div>
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notcarolinna&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=notcarolinna&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01070f&height=120&section=footer"/>
