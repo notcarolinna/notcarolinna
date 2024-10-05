@@ -19,8 +19,8 @@ My name is Carolinna, and I'm a 3rd year Computer Engineering student, but I'm e
 
 <p align="center">
   <img src="https://badges.pufler.dev/years/notcarolinna"/>
- <img src="https://badges.pufler.dev/repos/notcarolinna"/>
- <img src="https://badges.pufler.dev/commits/monthly/notcarolinna" />
+  <img src="https://badges.pufler.dev/repos/notcarolinna"/>
+  <img src="https://badges.pufler.dev/commits/weekly/notcarolinna"/>
 </p>
 
 <br>
