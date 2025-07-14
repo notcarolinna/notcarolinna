@@ -17,12 +17,6 @@ My name is Carolinna, and I'm a Computer Science student with experience ranging
 
 <br>
 
-<p align="center">
-  <img src="https://badges.pufler.dev/years/notcarolinna"/>
-  <img src="https://badges.pufler.dev/repos/notcarolinna"/>
-  <img src="https://badges.pufler.dev/commits/weekly/notcarolinna"/>
-</p>
-
 <br>
 
 
