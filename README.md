@@ -17,8 +17,6 @@ My name is Carolinna, and I'm a Computer Science student with experience ranging
 
 <br>
 
-<br>
-
 
 <div align="center">
   <h2><strong> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="30">
