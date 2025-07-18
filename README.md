@@ -12,7 +12,7 @@
 </div>
 <br>
 <p align="center">
-My name is Carolinna, and I'm a Computer Science student with experience ranging from hardware to front-end development. I studied Computer Engineering for three years, focusing on VHDL, SystemVerilog, and Assembly for hardware and robotics projects. I worked on developing generative AIs for corporate chatbots, as well as creating internal tools and a Terraform provider in Go using the Azure API, with an emphasis on cloud infrastructure and vSphere. I have also developed projects such as disk scheduling algorithms, kernel modules, cryptography implementations, GitHub Actions automations, and client-server applications. Currently, I’m looking to expand my knowledge in DevOps and deepen my front-end development skills.
+I'm Carolinna, a Computer Science student with experience ranging from hardware to front-end development. I studied Computer Engineering for three years, focusing on VHDL, SystemVerilog, and Assembly for hardware and robotics projects. I’ve worked on developing generative AIs for corporate chatbots, creating internal tools, and building a Terraform provider in Go using the Azure API, with an emphasis on cloud infrastructure and vSphere. I’ve also developed projects such as disk scheduling algorithms, kernel modules, cryptography implementations, GitHub Actions automations, and client-server applications. Currently, I'm looking to expand my knowledge in DevOps and deepen my front-end development skills.
 </p>
 
 <br>
