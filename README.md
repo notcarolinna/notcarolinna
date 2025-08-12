@@ -1,9 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=294284&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=50:F2AC7E,color=50:FF6500&height=120&section=header"/>
 
 <p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 </p>
-
 
 <div align="center">
   <h2><strong> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="30">
@@ -54,4 +53,4 @@ I'm Carolinna, a Computer Science student with experience ranging from hardware 
  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=294284&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
